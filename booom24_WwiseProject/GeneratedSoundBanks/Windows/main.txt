@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2976252989	Play_amb_test			\Default Work Unit\Play_amb_test	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	956563123	amb_test	E:\Proj\BOOOM24\booom24\booom24_WwiseProject\.cache\Windows\SFX\amb_test_FBC78EF0.wem		\Actor-Mixer Hierarchy\Default Work Unit\amb_test		3401808
+

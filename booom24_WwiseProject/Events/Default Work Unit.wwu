@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8F9194C8-5C16-433C-9D5B-F9BC697060DA}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{8F9194C8-5C16-433C-9D5B-F9BC697060DA}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_plugin" ID="{6721F1D3-F868-4655-8281-519C427B3596}">
+					<ChildrenList>
+						<Action Name="" ID="{55D6DF14-EF87-49A0-89D2-1C7246B09F98}" ShortID="914351949">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="plugin_1" ID="{98E93474-313C-4D9F-B55E-7A57B8DC9932}" WorkUnitID="{38238656-A85D-4FC8-ACAC-A88159492BC2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_plugout" ID="{D4AC5844-C033-4094-9DE7-984DF0927382}">
+					<ChildrenList>
+						<Action Name="" ID="{587FAC03-709F-42BC-A80F-33D39CFF1E59}" ShortID="757641273">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="plugout_1" ID="{8B59761A-48C8-4A97-89CD-6059DAD98C03}" WorkUnitID="{38238656-A85D-4FC8-ACAC-A88159492BC2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_amb_test" ID="{B52D6029-6469-428E-AFC1-CE822321CBB4}">
+					<ChildrenList>
+						<Action Name="" ID="{292E50E3-5D68-4F36-86F8-F5308D708868}" ShortID="139066034">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_test" ID="{8C402B9D-5E0A-4091-BF02-557B38E5F641}" WorkUnitID="{38238656-A85D-4FC8-ACAC-A88159492BC2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
